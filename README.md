@@ -1,1 +1,1 @@
-# Baggage-Tracker
+The project’s main aim is to model an entity that will guarantee the safety of passenger’s luggage, by which they can travel without agitation. The baggage tracing system is used to detect the orientation of luggage and bags. 
